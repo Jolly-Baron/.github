@@ -1,6 +1,7 @@
 <!-- profile/README.md -->
 <div align="center">
-  <img src="https://via.placeholder.com/150/FF6F61/FFFFFF?text=JB" alt="Jolly-Baron logo" width="150" />
+  <!-- Замените ссылку ниже на реальный URL вашего логотипа -->
+<img src="https://raw.githubusercontent.com/Jolly-Baron/.github/main/jolly baron.jpg" alt="Jolly-Baron logo" width="150" />
   <h1>Jolly-Baron</h1>
   <p><em>The Jolly Baron guarding open source with a smile</em> 🛡️🎉</p>
 
@@ -8,10 +9,17 @@
     <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/Jolly-Baron?style=social">
     <img alt="Open Source Love" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
     <img alt="Made with Markdown" src="https://img.shields.io/badge/made%20with-Markdown-1f425f.svg">
-    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
-    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
   </p>
 </div>
+
+---
+
+## 🚀 Latest Release
+
+[![Latest Release](https://img.shields.io/github/v/release/Jolly-Baron/Jolly-Baron-Translator?style=flat-square)](https://github.com/Jolly-Baron/Jolly-Baron-Translator/releases/latest)
+
+**Jolly-Baron-Translator v0.3** — First stable release.  
+[📦 Download and release notes →](https://github.com/Jolly-Baron/Jolly-Baron-Translator/releases/tag/v0.3)
 
 ---
 
