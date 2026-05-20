@@ -1,7 +1,7 @@
 <!-- profile/README.md -->
 <div align="center">
   <!-- Замените ссылку ниже на реальный URL вашего логотипа -->
-<img src="https://raw.githubusercontent.com/Jolly-Baron/.github/main/jolly%20baron.jpg" alt="Jolly-Baron logo" width="350" />
+<img src="https://raw.githubusercontent.com/Jolly-Baron/.github/main/jollybaron.jpg" alt="Jolly-Baron logo" width="350" />
   <h1>Jolly-Baron</h1>
   <p><em>The Jolly Baron guarding open source with a smile</em> 🛡️🎉</p>
 
