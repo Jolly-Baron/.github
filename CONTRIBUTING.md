@@ -3,7 +3,7 @@
 Thank you for considering a contribution! We welcome everyone.
 
 ## How to help
-- Report bugs via [Issues](link to main repo issues).
+- Report bugs via [Issues](https://github.com/Jolly-Baron/Jolly-Baron-Translator/issues).
 - Suggest new features by opening an Issue with your idea.
 - Submit Pull Requests with fixes or improvements.
 
