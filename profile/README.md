@@ -2,6 +2,17 @@
 <div align="center">
   <!-- Замените ссылку ниже на реальный URL вашего логотипа -->
 <img src="https://raw.githubusercontent.com/Jolly-Baron/.github/main/jollybaron.jpg" alt="Jolly-Baron logo" width="350" />
+  <div align="center">
+  <br>
+  <!-- КНОПКА С ПРИЗЫВОМ К ДЕЙСТВИЮ -->
+  <a href="https://boosty.to/jollybaron/donate" target="_blank">
+    <img src="https://img.shields.io/badge/❤️_SUPPORT_OUR_WORK_ON_BOOSTY-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Donate on Boosty">
+  </a>
+  <br><br>
+  <!-- КОРОТКОЕ ПОЯСНЕНИЕ -->
+  <sub>Your support helps us create and maintain more open-source projects with a smile ✨</sub>
+  <br><br>
+</div>
   <h1>Jolly-Baron</h1>
   <p><em>The Jolly Baron guarding open source with a smile</em> 🛡️🎉</p>
 
