@@ -1,15 +1,14 @@
-<!-- profile/README.md -->
 <div align="center">
-  <!-- Замените ссылку ниже на реальный URL вашего логотипа -->
+
 <img src="https://raw.githubusercontent.com/Jolly-Baron/.github/main/jollybaron.jpg" alt="Jolly-Baron logo" width="350" />
   <div align="center">
   <br>
-  <!-- КНОПКА С ПРИЗЫВОМ К ДЕЙСТВИЮ -->
+
   <a href="https://boosty.to/jollybaron/donate" target="_blank">
     <img src="https://img.shields.io/badge/❤️_SUPPORT_OUR_WORK_ON_BOOSTY-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Donate on Boosty">
   </a>
   <br><br>
-  <!-- КОРОТКОЕ ПОЯСНЕНИЕ -->
+
   <sub>Your support helps us create and maintain more open-source projects with a smile ✨</sub>
   <br><br>
 </div>
@@ -22,15 +21,6 @@
     <img alt="Made with Markdown" src="https://img.shields.io/badge/made%20with-Markdown-1f425f.svg">
   </p>
 </div>
-
----
-
-## 🚀 Latest Release
-
-[![Latest Release](https://img.shields.io/github/v/release/Jolly-Baron/Jolly-Baron-Translator?style=flat-square)](https://github.com/Jolly-Baron/Jolly-Baron-Translator/releases/latest)
-
-**Jolly-Baron-Translator v0.3** — First stable release.  
-[📦 Download and release notes →](https://github.com/Jolly-Baron/Jolly-Baron-Translator/releases/tag/v0.3)
 
 ---
 
