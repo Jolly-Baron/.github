@@ -1,0 +1,13 @@
+# Эти строки — комментарии, GitHub их игнорирует, но они будут полезны для всех, кто захочет понять или изменить настройки.
+# Подробнее о том, как работает FUNDING.yml, можно почитать в документации GitHub:
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
+
+# Поддерживаемые GitHub платформы можно указывать вот так. Раскомментируйте, если используете что-то из этого списка.
+# github: [ИМЯ_ПОЛЬЗОВАТЕЛЯ]         # Например: github: [Jolly-Baron]
+# patreon: ИМЯ_ПОЛЬЗОВАТЕЛЯ
+# ko_fi: ИМЯ_ПОЛЬЗОВАТЕЛЯ
+# open_collective: ИМЯ_ОРГАНИЗАЦИИ
+
+# Для всех остальных платформ, включая Boosty, используйте поле `custom`.
+# Это должен быть именно массив (список), как показано ниже.
+custom: ["https://boosty.to/jollybaron/donate"]
